@@ -1,5 +1,3 @@
-Claro! Aqui está o texto formatado para o seu README.md no GitHub, incluindo as imagens que você enviou:
-
 ---
 
 # Análise de Resultados de Eleições
@@ -108,6 +106,9 @@ Esta planilha foi elaborada de forma voluntária, sem qualquer apoio financeiro,
 
 Os nomes dos distritos e bairros foram obtidos a partir do site do TSE: [TSE - Zonais Eleitorais](https://www.tre-ce.jus.br/institucional/zonas-eleitorais/zonas-eleitorais-1)
 
+- **[Planilha dos Resultados da Votação para Vereador](https://docs.google.com/spreadsheets/d/1vGBnuCAhJfHGqO0wHShw3xfKkuLbTnJUg0p8PcJl3uw/edit?gid=1793435272#gid=1793435272)**
+- **[Planilha dos Resultados da Votação para Prefeito](https://docs.google.com/spreadsheets/d/1BklcxH5KFr8Mi949NW7ic0eVcuMw5Xhm3mUFIN4X928/edit?gid=1842266406#gid=1842266406)**
+
 A lista completa dos 149 candidatos a vereador pode ser encontrada aqui: [Lista de Candidatos](https://divulgacandcontas.tse.jus.br/divulga/#/candidato/NORDESTE/CE/2045202024)
 
 Caso queira saber mais sobre as fontes utilizadas e como os dados foram cruzados, entre em contato comigo pelo Instagram: @_samuelnasc
@@ -130,5 +131,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 O projeto ganhou ampla visibilidade na cidade, sendo destaque em perfis influentes do Instagram no município, reconhecido por sua contribuição para a transparência e organização dos dados eleitorais.
 
-[Publicação no perfil cascavel Ordinário - O perfil tem mais de 147 mil seguidores](https://www.instagram.com/p/DA3xCH-PV1P/?img_index=1)
----
+[Publicação no perfil Cascavel Ordinário - O perfil tem mais de 147 mil seguidores](https://www.instagram.com/p/DA3xCH-PV1P/?img_index=1)
+
+--- 
