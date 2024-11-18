@@ -1,0 +1,287 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1414
+Seção	Eleitoral
+0074
+Eleitores	aptos
+0282
+Eleitores	aptos	originais
+0281
+Eleitores	aptos	temporários
+0001
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0074
+Baixar	o	arquivo	BU
+0234
+Habilitação	biométrica
+0206
+Habilitação	biograﬁca
+0012
+Habilitação	sem	biometria
+0016
+Eleitores	faltosos
+0048
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02290005
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:03:12
+Resumo	da	correspondência
+318.938
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+1
+10111	PROFESSORA	NONATA	COSTA
+Votação
+8
+10123	PAULINHO	PROMOÇÕES
+Votação
+3
+10333	DAVID	GARCÊS
+Votação
+1
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+2
+10610	KINZINHO	DO	VOLMIR
+Votação
+17
+10777	PAULO	DA	JUDITE
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	34
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+1
+11190	MAGALY	MORAIS
+Votação
+1
+11666	LIBERATO	FILHO
+Votação
+4
+11789	EDUARDO	CRUZ
+Votação
+1
+11999	JAIRO	TAXISTA
+Votação
+1
+Votos	de	legenda:	2
+Total	do	Partido:	10
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12777	VITORIA	MARTINS
+Votação
+9
+12888	NETO	POLI
+Votação
+7
+Votos	de	legenda:	0
+Total	do	Partido:	16
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+1
+13444	TIAGO	ROCHA
+Votação
+1
+13789	PROFESSOR	ERIVAN
+Votação
+3
+Votos	de	legenda:	2
+Total	do	Partido:	7
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+2
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+1
+22333	TAZIA	XAVIER
+Votação
+14
+Votos	de	legenda:	0
+Total	do	Partido:	17
+Partido	27	-	Democracia	Cristã
+Candidato
+27123	MARCIO	RABELO
+Votação
+1
+27888	MARCELO	DO	PAREDÃO
+Votação
+1
+27999	JUNIOR	GENRO	JULIO
+Votação
+31
+Votos	de	legenda:	1
+Total	do	Partido:	34
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+10
+28666	FANTIQUIM
+Votação
+13
+28888	VALDECIR
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	28
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+2
+40111	ALLISON	CAMILO
+Votação
+19
+40123	BETO	RAMIRES
+Votação
+2
+40444	ADONIAS	DO	TURISMO
+Votação
+24
+40555	NOVO	CONSTRUÇÃO
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	52
+Partido	44	-	União	Brasil
+Candidato
+44333	ELISANGELA	SILVA
+Votação
+1
+44444	KEKEU	DO	MUCURA
+Votação
+3
+44555	LURDENIS	VIEIRA
+Votação
+1
+44777	NILDE	BORGES
+Votação
+3
+Votos	de	legenda:	1
+Total	do	Partido:	9
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45000	MAJU
+Votação
+2
+45123	DUDU	DA	CAPONGA
+Votação
+9
+45555	FRANCISCO	DO	BALBINO
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	15
+Partido	70	-	AVANTE
+Candidato
+70133	LEILDA	LELÊ
+Votação
+1
+70555	HELENA	PORFÍRIO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Eleitores	Aptos
+0282
+Eleitores	aptos	originais
+0281
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0217
+Votos	de	legenda
+Votos	de	legenda
+0007
+Votos	em	branco
+0003
+Votos	Nulos
+0007
+Total	Apurado
+0234
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+123
+13	PROFESSOR	CLEITON
+Votação
+89
+20	PAULINHA	DANTAS
+Votação
+1
+Eleitores	Aptos
+0282
+Eleitores	aptos	originais
+0281
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0213
+Votos	de	legenda
+0000
+Votos	em	branco
+0008
+Votos	Nulos
+0013
+Total	Apurado
+0234
+Código	de	identiﬁcacão	da	carga
+393.616.321.529.607.385.318.938
+393.616.321.529.607.385.318.938
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

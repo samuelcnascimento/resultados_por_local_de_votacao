@@ -1,0 +1,235 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1260
+Seção	Eleitoral
+0047
+Eleitores	aptos
+0344
+Eleitores	aptos	originais
+0344
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0047
+Baixar	o	arquivo	BU
+0308
+Habilitação	biométrica
+0270
+Habilitação	biograﬁca
+0025
+Habilitação	sem	biometria
+0013
+Eleitores	faltosos
+0036
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02279657
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:00:50
+Resumo	da	correspondência
+021.229
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+1
+10111	PROFESSORA	NONATA	COSTA
+Votação
+2
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+1
+10610	KINZINHO	DO	VOLMIR
+Votação
+4
+10777	PAULO	DA	JUDITE
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	10
+Partido	11	-	PROGRESSISTAS
+Candidato
+11789	EDUARDO	CRUZ
+Votação
+1
+Votos	de	legenda:	3
+Total	do	Partido:	4
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12888	NETO	POLI
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13444	TIAGO	ROCHA
+Votação
+3
+Votos	de	legenda:	3
+Total	do	Partido:	6
+Partido	22	-	Partido	Liberal
+Candidato
+22111	VINÍCIUS	OLINDA
+Votação
+4
+22555	RAFAEL	OLIVEIRA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	5
+Partido	27	-	Democracia	Cristã
+Candidato
+27999	JUNIOR	GENRO	JULIO
+Votação
+9
+Votos	de	legenda:	0
+Total	do	Partido:	9
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+4
+28666	FANTIQUIM
+Votação
+23
+28888	VALDECIR
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	32
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40111	ALLISON	CAMILO
+Votação
+25
+40444	ADONIAS	DO	TURISMO
+Votação
+9
+40555	NOVO	CONSTRUÇÃO
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	38
+Partido	44	-	União	Brasil
+Candidato
+44555	LURDENIS	VIEIRA
+Votação
+4
+44777	NILDE	BORGES
+Votação
+17
+Votos	de	legenda:	3
+Total	do	Partido:	24
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45000	MAJU
+Votação
+2
+45555	FRANCISCO	DO	BALBINO
+Votação
+158
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+2
+Votos	de	legenda:	8
+Total	do	Partido:	170
+Partido	70	-	AVANTE
+Candidato
+70100	RUBENILTON
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Eleitores	Aptos
+0344
+Eleitores	aptos	originais
+0344
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0283
+Votos	de	legenda
+0018
+Votos	em	branco
+0002
+Votos	Nulos
+0005
+0005
+Total	Apurado
+0308
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+104
+13	PROFESSOR	CLEITON
+Votação
+181
+20	PAULINHA	DANTAS
+Votação
+1
+Eleitores	Aptos
+0344
+Eleitores	aptos	originais
+0344
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0286
+Votos	de	legenda
+0000
+Votos	em	branco
+0008
+Votos	Nulos
+0014
+Total	Apurado
+0308
+Código	de	identiﬁcacão	da	carga
+504.727.550.040.896.573.021.229
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

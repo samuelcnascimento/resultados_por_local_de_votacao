@@ -1,0 +1,253 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1260
+Seção	Eleitoral
+0184
+Eleitores	aptos
+0372
+Eleitores	aptos	originais
+0372
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0184
+Baixar	o	arquivo	BU
+0336
+Habilitação	biométrica
+0309
+Habilitação	biograﬁca
+0015
+Habilitação	sem	biometria
+0012
+Eleitores	faltosos
+0036
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02291316
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:01:04
+Resumo	da	correspondência
+722.230
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+2
+10111	PROFESSORA	NONATA	COSTA
+Votação
+3
+10123	PAULINHO	PROMOÇÕES
+Votação
+2
+10610	KINZINHO	DO	VOLMIR
+Votação
+3
+10777	PAULO	DA	JUDITE
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	15
+Partido	11	-	PROGRESSISTAS
+Candidato
+Não	há	votos	nominais
+Votos	de	legenda:	3
+Total	do	Partido:	3
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+1
+12777	VITORIA	MARTINS
+Votação
+2
+12888	NETO	POLI
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	6
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13222	FÁBIA	NAPOLEAO
+Votação
+1
+13789	PROFESSOR	ERIVAN
+Votação
+2
+Votos	de	legenda:	4
+Total	do	Partido:	7
+Partido	22	-	Partido	Liberal
+Candidato
+22111	VINÍCIUS	OLINDA
+Votação
+7
+22333	TAZIA	XAVIER
+Votação
+1
+22555	RAFAEL	OLIVEIRA
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	13
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+1
+27123	MARCIO	RABELO
+Votação
+3
+27999	JUNIOR	GENRO	JULIO
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	9
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+3
+28666	FANTIQUIM
+Votação
+17
+28888	VALDECIR
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	22
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40111	ALLISON	CAMILO
+Votação
+21
+40444	ADONIAS	DO	TURISMO
+Votação
+10
+40555	NOVO	CONSTRUÇÃO
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	35
+Partido	44	-	União	Brasil
+Candidato
+44777	NILDE	BORGES
+Votação
+13
+44900	SHEIK	DO	DR	BRUNO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	15
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45000	MAJU
+Votação
+3
+45555	FRANCISCO	DO	BALBINO
+Votação
+198
+Votos	de	legenda:	3
+Total	do	Partido:	204
+Partido	50
+Candidato
+Não	há	votos	nominais
+Votos	de	legenda:	1
+Total	do	Partido:	1
+Partido	70	-	AVANTE
+Candidato
+70100	RUBENILTON
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Eleitores	Aptos
+0372
+Eleitores	aptos	originais
+0372
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0320
+Votos	de	legenda
+0011
+Votos	em	branco
+0003
+Votos	Nulos
+0002
+Total	Apurado
+0336
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+111
+13	PROFESSOR	CLEITON
+Votação
+201
+20	PAULINHA	DANTAS
+Votação
+2
+Eleitores	Aptos
+0372
+Eleitores	aptos	originais
+0372
+Eleitores	aptos	temporários
+0000
+0000
+Votos	nominais
+0314
+Votos	de	legenda
+0000
+Votos	em	branco
+0009
+Votos	Nulos
+0013
+Total	Apurado
+0336
+Código	de	identiﬁcacão	da	carga
+605.737.698.650.205.586.722.230
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

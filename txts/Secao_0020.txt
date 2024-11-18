@@ -1,0 +1,358 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1120
+Seção	Eleitoral
+0020
+Eleitores	aptos
+0266
+Eleitores	aptos	originais
+0265
+Eleitores	aptos	temporários
+0001
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0020
+Baixar	o	arquivo	BU
+0232
+Habilitação	biométrica
+0220
+Habilitação	biograﬁca
+0007
+Habilitação	sem	biometria
+0005
+Eleitores	faltosos
+0034
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02291322
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:03:22
+Resumo	da	correspondência
+484.473
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+1
+10123	PAULINHO	PROMOÇÕES
+Votação
+17
+10333	DAVID	GARCÊS
+Votação
+1
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+3
+10555	PROFESSORA	ADRIANA
+Votação
+1
+10610	KINZINHO	DO	VOLMIR
+Votação
+1
+10777	PAULO	DA	JUDITE
+Votação
+13
+10789	FLÁVIO	CASCAVELENSE
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	40
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+14
+11222	SEBASTIÃO	UCHÔA
+Votação
+2
+11234	TIA	LURDES
+Votação
+1
+11444	EVILÁSIO	DANTAS
+Votação
+1
+11666	LIBERATO	FILHO
+Votação
+1
+11777	DIONES	LIMA
+Votação
+1
+11789	EDUARDO	CRUZ
+Votação
+2
+Votos	de	legenda:	1
+Total	do	Partido:	23
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+2
+12777	VITORIA	MARTINS
+Votação
+1
+12888	NETO	POLI
+Votação
+9
+Votos	de	legenda:	3
+Total	do	Partido:	15
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13000	MARIA	JÔ
+Votação
+3
+13123	PROFESSOR	ADEILDO
+Votação
+8
+13210	FÁTIMA	INACIO	EX	PROF.	CNEC
+Votação
+1
+13222	FÁBIA	NAPOLEAO
+Votação
+3
+13444	TIAGO	ROCHA
+Votação
+17
+13789	PROFESSOR	ERIVAN
+Votação
+6
+Votos	de	legenda:	0
+Total	do	Partido:	38
+Partido	18	-	Rede	Sustentabilidade
+Candidato
+18000	PROFESSOR	JOSÉ	BESOURO
+Votação
+1
+18111	SILVIA	DECORAÇÕES
+Votação
+1
+18400	UELITON	FARIAS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	3
+Partido	20	-	Podemos
+Candidato
+Não	há	votos	nominais
+Votos	de	legenda:	1
+Total	do	Partido:	1
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+9
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+5
+22111	VINÍCIUS	OLINDA
+Votação
+4
+22222	RAFAEL	AZEVEDO
+Votação
+2
+22555	RAFAEL	OLIVEIRA
+Votação
+2
+22888	LEIDIANE	CIRÍACO
+Votação
+1
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+5
+Votos	de	legenda:	1
+Total	do	Partido:	29
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+2
+27123	MARCIO	RABELO
+Votação
+2
+27456	ENFERMEIRA	MARCIA
+Votação
+1
+27777	SERGINHO	PARATLETA
+Votação
+1
+27888	MARCELO	DO	PAREDÃO
+Votação
+3
+27999	JUNIOR	GENRO	JULIO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	10
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+5
+28333	ADILENE	NOBRE
+Votação
+3
+28666	FANTIQUIM
+Votação
+2
+28888	VALDECIR
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	13
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+4
+40111	ALLISON	CAMILO
+Votação
+1
+40123	BETO	RAMIRES
+Votação
+4
+40444	ADONIAS	DO	TURISMO
+Votação
+1
+40555	NOVO	CONSTRUÇÃO
+Votação
+6
+Votos	de	legenda:	1
+Total	do	Partido:	17
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+1
+44111	DODÓ
+Votação
+1
+44444	KEKEU	DO	MUCURA
+Votação
+5
+44456	JEOVANE	DO	GÁS
+Votação
+1
+44555	LURDENIS	VIEIRA
+Votação
+2
+44567	NETO	DANTAS
+Votação
+2
+44789	LUCIÉDSON	FREITAS
+Votação
+10
+Votos	de	legenda:	0
+Total	do	Partido:	22
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45111	BAMBAM	DAS	PEGADINHAS
+Votação
+2
+45121	MAZE
+Votação
+1
+45222	YURI	MOTA
+Votação
+1
+45444	PALOMA	DELRIO
+Votação
+1
+45555	FRANCISCO	DO	BALBINO
+Votação
+2
+45777	BRUMARK
+Votação
+2
+45888	ZE	DO	JORNAL
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	10
+Eleitores	Aptos
+0266
+Eleitores	aptos	originais
+0265
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0214
+Votos	de	legenda
+0007
+Votos	em	branco
+0007
+Votos	Nulos
+0004
+Total	Apurado
+0232
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+93
+13	PROFESSOR	CLEITON
+Votação
+127
+20	PAULINHA	DANTAS
+Votação
+3
+Eleitores	Aptos
+0266
+Eleitores	aptos	originais
+0265
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0223
+Votos	de	legenda
+0000
+Votos	em	branco
+0002
+Votos	Nulos
+0007
+Total	Apurado
+0232
+Código	de	identiﬁcacão	da	carga
+030.080.170.406.929.612.484.473
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app

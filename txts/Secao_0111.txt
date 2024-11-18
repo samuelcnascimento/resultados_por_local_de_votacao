@@ -1,0 +1,293 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1430
+Seção	Eleitoral
+0111
+Eleitores	aptos
+0244
+Eleitores	aptos	originais
+0244
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0111
+Baixar	o	arquivo	BU
+0223
+Habilitação	biométrica
+0208
+Habilitação	biograﬁca
+0008
+Habilitação	sem	biometria
+0007
+Eleitores	faltosos
+0021
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02251771
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:00:48
+Resumo	da	correspondência
+377.822
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+5
+10123	PAULINHO	PROMOÇÕES
+Votação
+10
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+7
+10789	FLÁVIO	CASCAVELENSE
+Votação
+8
+Votos	de	legenda:	0
+Total	do	Partido:	30
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+16
+11222	SEBASTIÃO	UCHÔA
+Votação
+2
+11777	DIONES	LIMA
+Votação
+1
+11789	EDUARDO	CRUZ
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	21
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12111	CRISTIANE	GOMES
+Votação
+1
+12123	NENEM	DA	VIUVA
+Votação
+3
+12345	DR	GUTEMBERG
+Votação
+1
+12666	MARIA	ELENICE
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	6
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+11
+13222	FÁBIA	NAPOLEAO
+Votação
+1
+13444	TIAGO	ROCHA
+Votação
+4
+13456	ENFERMEIRA	LEUDA	CARVALHO
+Votação
+10
+13567	PROFESSOR	OZELITO
+Votação
+1
+13789	PROFESSOR	ERIVAN
+Votação
+1
+Votos	de	legenda:	2
+Total	do	Partido:	30
+Partido	20	-	Podemos
+Candidato
+Não	há	votos	nominais
+Votos	de	legenda:	1
+Total	do	Partido:	1
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+24
+22111	VINÍCIUS	OLINDA
+Votação
+1
+22333	TAZIA	XAVIER
+Votação
+1
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+5
+Votos	de	legenda:	1
+Total	do	Partido:	32
+Partido	27	-	Democracia	Cristã
+Candidato
+27123	MARCIO	RABELO
+Votação
+2
+27456	ENFERMEIRA	MARCIA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	3
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28007	JOSUÉ	CORREIA
+Votação
+4
+28123	PRISCILA	LIMA
+Votação
+4
+28124	MARLY	DO	BENJAMIN
+Votação
+1
+28777	CLENILDO	QUEIROZ
+Votação
+27
+28888	VALDECIR
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	41
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+7
+40123	BETO	RAMIRES
+Votação
+7
+40555	NOVO	CONSTRUÇÃO
+Votação
+5
+40789	GIRLANE	DO	CEDRO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	20
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+3
+44444	KEKEU	DO	MUCURA
+Votação
+2
+44456	JEOVANE	DO	GÁS
+Votação
+1
+44555	LURDENIS	VIEIRA
+Votação
+5
+44567	NETO	DANTAS
+Votação
+7
+44777	NILDE	BORGES
+Votação
+1
+44789	LUCIÉDSON	FREITAS
+Votação
+12
+Votos	de	legenda:	0
+Total	do	Partido:	31
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45444	PALOMA	DELRIO
+Votação
+1
+45555	FRANCISCO	DO	BALBINO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	3
+Eleitores	Aptos
+0244
+Eleitores	aptos	originais
+0244
+0244
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0213
+Votos	de	legenda
+0005
+Votos	em	branco
+0002
+Votos	Nulos
+0003
+Total	Apurado
+0223
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+156
+13	PROFESSOR	CLEITON
+Votação
+55
+20	PAULINHA	DANTAS
+Votação
+1
+Eleitores	Aptos
+0244
+Eleitores	aptos	originais
+0244
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0212
+Votos	de	legenda
+0000
+Votos	em	branco
+0005
+Votos	Nulos
+0006
+Total	Apurado
+0223
+Código	de	identiﬁcacão	da	carga
+040.181.313.500.894.157.377.822
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

@@ -1,0 +1,285 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1422
+Seção	Eleitoral
+0076
+Eleitores	aptos
+0333
+Eleitores	aptos	originais
+0333
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0076
+Baixar	o	arquivo	BU
+0292
+Habilitação	biométrica
+0251
+Habilitação	biograﬁca
+0023
+Habilitação	sem	biometria
+0018
+Eleitores	faltosos
+0041
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02275637
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:01:13
+Resumo	da	correspondência
+310.048
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+5
+10123	PAULINHO	PROMOÇÕES
+Votação
+1
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+2
+10555	PROFESSORA	ADRIANA
+Votação
+4
+10777	PAULO	DA	JUDITE
+Votação
+55
+10789	FLÁVIO	CASCAVELENSE
+Votação
+9
+Votos	de	legenda:	1
+Total	do	Partido:	77
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+2
+11222	SEBASTIÃO	UCHÔA
+Votação
+44
+11789	EDUARDO	CRUZ
+Votação
+4
+Votos	de	legenda:	3
+Total	do	Partido:	53
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+1
+12888	NETO	POLI
+Votação
+9
+Votos	de	legenda:	1
+Total	do	Partido:	11
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+6
+13222	FÁBIA	NAPOLEAO
+Votação
+1
+13444	TIAGO	ROCHA
+Votação
+22
+13789	PROFESSOR	ERIVAN
+Votação
+38
+Votos	de	legenda:	3
+Total	do	Partido:	70
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+2
+22111	VINÍCIUS	OLINDA
+Votação
+12
+22300	GILBERTO	DA	MANGABEIRA
+Votação
+6
+22555	RAFAEL	OLIVEIRA
+Votação
+1
+22777	GUI	DA	PADARIA
+Votação
+4
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	26
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+3
+27123	MARCIO	RABELO
+Votação
+2
+27555	FAFA
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	7
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+2
+28333	ADILENE	NOBRE
+Votação
+1
+28666	FANTIQUIM
+Votação
+1
+28888	VALDECIR
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	5
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+3
+40123	BETO	RAMIRES
+Votação
+1
+40444	ADONIAS	DO	TURISMO
+Votação
+1
+40456	JORDANA	BRAGA
+Votação
+1
+40555	NOVO	CONSTRUÇÃO
+Votação
+9
+Votos	de	legenda:	1
+Total	do	Partido:	16
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+3
+44444	KEKEU	DO	MUCURA
+Votação
+2
+44555	LURDENIS	VIEIRA
+Votação
+1
+44567	NETO	DANTAS
+Votação
+5
+44789	LUCIÉDSON	FREITAS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	12
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45444	PALOMA	DELRIO
+Votação
+1
+45555	FRANCISCO	DO	BALBINO
+Votação
+5
+45888	ZE	DO	JORNAL
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	7
+Eleitores	Aptos
+0333
+Eleitores	aptos	originais
+0333
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0275
+Votos	de	legenda
+0009
+Votos	em	branco
+0003
+Votos	Nulos
+0005
+0005
+Total	Apurado
+0292
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+150
+13	PROFESSOR	CLEITON
+Votação
+124
+20	PAULINHA	DANTAS
+Votação
+5
+Eleitores	Aptos
+0333
+Eleitores	aptos	originais
+0333
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0279
+Votos	de	legenda
+0000
+Votos	em	branco
+0004
+Votos	Nulos
+0009
+Total	Apurado
+0292
+Código	de	identiﬁcacão	da	carga
+282.505.432.001.457.461.310.048
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

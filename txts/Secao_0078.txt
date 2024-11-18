@@ -1,0 +1,290 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1430
+Seção	Eleitoral
+0078
+Eleitores	aptos
+0246
+Eleitores	aptos	originais
+0245
+Eleitores	aptos	temporários
+0001
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0078
+Baixar	o	arquivo	BU
+0205
+Habilitação	biométrica
+0180
+Habilitação	biograﬁca
+0014
+Habilitação	sem	biometria
+0011
+Eleitores	faltosos
+0041
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02251400
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:01:04
+Resumo	da	correspondência
+021.032
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+2
+10123	PAULINHO	PROMOÇÕES
+Votação
+8
+10333	DAVID	GARCÊS
+Votação
+1
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+8
+10777	PAULO	DA	JUDITE
+Votação
+1
+10789	FLÁVIO	CASCAVELENSE
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	24
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+13
+11111	PASTORA	HELENA	CORDEIRO
+Votação
+1
+11222	SEBASTIÃO	UCHÔA
+Votação
+6
+Votos	de	legenda:	1
+Total	do	Partido:	21
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+4
+12888	NETO	POLI
+Votação
+3
+Votos	de	legenda:	1
+Total	do	Partido:	8
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+11
+13444	TIAGO	ROCHA
+Votação
+3
+13456	ENFERMEIRA	LEUDA	CARVALHO
+Votação
+14
+13789	PROFESSOR	ERIVAN
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	30
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+23
+22111	VINÍCIUS	OLINDA
+Votação
+3
+22333	TAZIA	XAVIER
+Votação
+3
+22777	GUI	DA	PADARIA
+Votação
+1
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	33
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+1
+27123	MARCIO	RABELO
+Votação
+3
+27456	ENFERMEIRA	MARCIA
+Votação
+3
+27888	MARCELO	DO	PAREDÃO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	8
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28007	JOSUÉ	CORREIA
+Votação
+4
+28123	PRISCILA	LIMA
+Votação
+1
+28777	CLENILDO	QUEIROZ
+Votação
+19
+28888	VALDECIR
+Votação
+5
+Votos	de	legenda:	1
+Total	do	Partido:	30
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+3
+40123	BETO	RAMIRES
+Votação
+4
+40555	NOVO	CONSTRUÇÃO
+Votação
+4
+40789	GIRLANE	DO	CEDRO
+Votação
+2
+Votos	de	legenda:	1
+Total	do	Partido:	14
+Partido	44	-	União	Brasil
+Candidato
+44111	DODÓ
+Votação
+1
+44444	KEKEU	DO	MUCURA
+Votação
+2
+44456	JEOVANE	DO	GÁS
+Votação
+2
+44555	LURDENIS	VIEIRA
+Votação
+7
+44567	NETO	DANTAS
+Votação
+8
+44789	LUCIÉDSON	FREITAS
+Votação
+7
+Votos	de	legenda:	0
+Total	do	Partido:	27
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45112	LUCIANA
+Votação
+1
+45555	FRANCISCO	DO	BALBINO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Partido	70	-	AVANTE
+Candidato
+70100	RUBENILTON
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Eleitores	Aptos
+0246
+Eleitores	aptos	originais
+0245
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0195
+0195
+Votos	de	legenda
+0004
+Votos	em	branco
+0003
+Votos	Nulos
+0003
+Total	Apurado
+0205
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+139
+13	PROFESSOR	CLEITON
+Votação
+54
+20	PAULINHA	DANTAS
+Votação
+4
+Eleitores	Aptos
+0246
+Eleitores	aptos	originais
+0245
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0197
+Votos	de	legenda
+0000
+Votos	em	branco
+0001
+Votos	Nulos
+0007
+Total	Apurado
+0205
+Código	de	identiﬁcacão	da	carga
+595.636.968.355.162.740.021.032
+595.636.968.355.162.740.021.032
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

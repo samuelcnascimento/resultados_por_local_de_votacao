@@ -1,0 +1,341 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1627
+Seção	Eleitoral
+0140
+Eleitores	aptos
+0333
+Eleitores	aptos	originais
+0333
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0140
+Baixar	o	arquivo	BU
+0304
+Habilitação	biométrica
+0289
+Habilitação	biograﬁca
+0013
+Habilitação	sem	biometria
+0002
+Eleitores	faltosos
+0029
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02291342
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:01:50
+Resumo	da	correspondência
+585.485
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+5
+10123	PAULINHO	PROMOÇÕES
+Votação
+7
+10333	DAVID	GARCÊS
+Votação
+5
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+2
+10777	PAULO	DA	JUDITE
+Votação
+7
+10789	FLÁVIO	CASCAVELENSE
+Votação
+16
+Votos	de	legenda:	0
+Total	do	Partido:	42
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+15
+11111	PASTORA	HELENA	CORDEIRO
+Votação
+3
+11222	SEBASTIÃO	UCHÔA
+Votação
+6
+11789	EDUARDO	CRUZ
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	26
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12111	CRISTIANE	GOMES
+Votação
+1
+12123	NENEM	DA	VIUVA
+Votação
+2
+12888	NETO	POLI
+Votação
+9
+Votos	de	legenda:	0
+Total	do	Partido:	12
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+5
+13222	FÁBIA	NAPOLEAO
+Votação
+2
+13444	TIAGO	ROCHA
+Votação
+2
+13789	PROFESSOR	ERIVAN
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	11
+Partido	18	-	Rede	Sustentabilidade
+Candidato
+18444	ELIANE
+Votação
+1
+18777	FABIO	MARTINS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Partido	20	-	Podemos
+Candidato
+20456	VERA	DANTAS
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+6
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+5
+22111	VINÍCIUS	OLINDA
+Votação
+15
+22222	RAFAEL	AZEVEDO
+Votação
+2
+22300	GILBERTO	DA	MANGABEIRA
+Votação
+1
+22333	TAZIA	XAVIER
+Votação
+1
+22555	RAFAEL	OLIVEIRA
+Votação
+1
+22888	LEIDIANE	CIRÍACO
+Votação
+1
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+43
+Votos	de	legenda:	0
+Total	do	Partido:	75
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+6
+27007	SAMIA	REGIS
+Votação
+1
+27123	MARCIO	RABELO
+Votação
+2
+27456	ENFERMEIRA	MARCIA
+Votação
+10
+27888	MARCELO	DO	PAREDÃO
+Votação
+6
+27999	JUNIOR	GENRO	JULIO
+Votação
+2
+Votos	de	legenda:	1
+Total	do	Partido:	28
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28007	JOSUÉ	CORREIA
+Votação
+5
+28123	PRISCILA	LIMA
+Votação
+7
+28888	VALDECIR
+Votação
+8
+Votos	de	legenda:	0
+Total	do	Partido:	20
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+4
+40111	ALLISON	CAMILO
+Votação
+4
+40123	BETO	RAMIRES
+Votação
+18
+40222	NETA	FREITAS
+Votação
+1
+40444	ADONIAS	DO	TURISMO
+Votação
+3
+40555	NOVO	CONSTRUÇÃO
+Votação
+8
+40789	GIRLANE	DO	CEDRO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	39
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+4
+44123	GAVIÃO	SILVA
+Votação
+5
+44456	JEOVANE	DO	GÁS
+Votação
+1
+44555	LURDENIS	VIEIRA
+Votação
+6
+44567	NETO	DANTAS
+Votação
+5
+44789	LUCIÉDSON	FREITAS
+Votação
+7
+Votos	de	legenda:	0
+Total	do	Partido:	28
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45121	MAZE
+Votação
+1
+45222	YURI	MOTA
+Votação
+1
+45555	FRANCISCO	DO	BALBINO
+Votação
+3
+45888	ZE	DO	JORNAL
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	7
+Partido	70	-	AVANTE
+Candidato
+70100	RUBENILTON
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Eleitores	Aptos
+0333
+Eleitores	aptos	originais
+0333
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0290
+Votos	de	legenda
+0003
+Votos	em	branco
+0003
+Votos	Nulos
+0008
+Total	Apurado
+0304
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+186
+13	PROFESSOR	CLEITON
+Votação
+100
+20	PAULINHA	DANTAS
+Votação
+9
+Eleitores	Aptos
+0333
+Eleitores	aptos	originais
+0333
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0295
+Votos	de	legenda
+0000
+Votos	em	branco
+0004
+Votos	Nulos
+0005
+Total	Apurado
+0304
+Código	de	identiﬁcacão	da	carga
+676.444.049.012.137.419.585.485
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

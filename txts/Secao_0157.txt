@@ -1,0 +1,306 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1147
+Seção	Eleitoral
+0157
+Eleitores	aptos
+0363
+Eleitores	aptos	originais
+0363
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0157
+Baixar	o	arquivo	BU
+0326
+Habilitação	biométrica
+0295
+Habilitação	biograﬁca
+0016
+Habilitação	sem	biometria
+0015
+Eleitores	faltosos
+0037
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02293148
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:01:40
+Resumo	da	correspondência
+309.916
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+4
+10123	PAULINHO	PROMOÇÕES
+Votação
+3
+10333	DAVID	GARCÊS
+Votação
+1
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+11
+10777	PAULO	DA	JUDITE
+Votação
+12
+10789	FLÁVIO	CASCAVELENSE
+Votação
+10
+Votos	de	legenda:	1
+Total	do	Partido:	42
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+10
+11111	PASTORA	HELENA	CORDEIRO
+Votação
+1
+11222	SEBASTIÃO	UCHÔA
+Votação
+10
+11555	LÉO	DA	BICA
+Votação
+1
+11777	DIONES	LIMA
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	24
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+12
+12345	DR	GUTEMBERG
+Votação
+1
+12888	NETO	POLI
+Votação
+3
+Votos	de	legenda:	2
+Total	do	Partido:	18
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13222	FÁBIA	NAPOLEAO
+Votação
+2
+13444	TIAGO	ROCHA
+Votação
+22
+13456	ENFERMEIRA	LEUDA	CARVALHO
+Votação
+3
+13789	PROFESSOR	ERIVAN
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	29
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+11
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+3
+22111	VINÍCIUS	OLINDA
+Votação
+4
+22222	RAFAEL	AZEVEDO
+Votação
+1
+22777	GUI	DA	PADARIA
+Votação
+8
+22888	LEIDIANE	CIRÍACO
+Votação
+1
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+18
+Votos	de	legenda:	0
+Total	do	Partido:	46
+Partido	27	-	Democracia	Cristã
+Candidato
+27123	MARCIO	RABELO
+Votação
+5
+27456	ENFERMEIRA	MARCIA
+Votação
+5
+27999	JUNIOR	GENRO	JULIO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	12
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+9
+28666	FANTIQUIM
+Votação
+1
+28777	CLENILDO	QUEIROZ
+Votação
+29
+28888	VALDECIR
+Votação
+26
+Votos	de	legenda:	0
+Total	do	Partido:	65
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+3
+40123	BETO	RAMIRES
+Votação
+3
+40444	ADONIAS	DO	TURISMO
+Votação
+1
+40555	NOVO	CONSTRUÇÃO
+Votação
+12
+Votos	de	legenda:	2
+Total	do	Partido:	21
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+2
+44111	DODÓ
+Votação
+7
+44123	GAVIÃO	SILVA
+Votação
+12
+44444	KEKEU	DO	MUCURA
+Votação
+5
+44555	LURDENIS	VIEIRA
+Votação
+1
+44789	LUCIÉDSON	FREITAS
+Votação
+10
+44900	SHEIK	DO	DR	BRUNO
+Votação
+8
+Votos	de	legenda:	0
+Total	do	Partido:	45
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45555	FRANCISCO	DO	BALBINO
+Votação
+2
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+1
+45888	ZE	DO	JORNAL
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	5
+Partido	70	-	AVANTE
+Candidato
+70555	HELENA	PORFÍRIO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Eleitores	Aptos
+0363
+Eleitores	aptos	originais
+0363
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0302
+Votos	de	legenda
+0007
+Votos	em	branco
+0007
+Votos	Nulos
+0010
+Total	Apurado
+0326
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+236
+13	PROFESSOR	CLEITON
+Votação
+69
+20	PAULINHA	DANTAS
+Votação
+1
+Eleitores	Aptos
+0363
+Eleitores	aptos	originais
+0363
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0306
+Votos	de	legenda
+0000
+Votos	em	branco
+0008
+Votos	Nulos
+0012
+Total	Apurado
+0326
+Código	de	identiﬁcacão	da	carga
+918.868.127.264.602.656.309.916
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

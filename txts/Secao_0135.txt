@@ -1,0 +1,197 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1716
+Seção	Eleitoral
+0135
+Eleitores	aptos
+0150
+Eleitores	aptos	originais
+0150
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0135
+Baixar	o	arquivo	BU
+0133
+Habilitação	biométrica
+0117
+Habilitação	biograﬁca
+0010
+Habilitação	sem	biometria
+0006
+Eleitores	faltosos
+0017
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02252148
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:02:34
+Resumo	da	correspondência
+851.153
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+48
+Votos	de	legenda:	0
+Total	do	Partido:	48
+Partido	11	-	PROGRESSISTAS
+Candidato
+11222	SEBASTIÃO	UCHÔA
+Votação
+27
+Votos	de	legenda:	1
+Total	do	Partido:	28
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12888	NETO	POLI
+Votação
+3
+Votos	de	legenda:	1
+Total	do	Partido:	4
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13444	TIAGO	ROCHA
+Votação
+6
+13789	PROFESSOR	ERIVAN
+Votação
+8
+Votos	de	legenda:	0
+Total	do	Partido:	14
+Partido	22	-	Partido	Liberal
+Candidato
+22111	VINÍCIUS	OLINDA
+Votação
+21
+Votos	de	legenda:	0
+Total	do	Partido:	21
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28777	CLENILDO	QUEIROZ
+Votação
+1
+28888	VALDECIR
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	3
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40555	NOVO	CONSTRUÇÃO
+Votação
+2
+40888	ENFERMEIRA	NATECIA
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	6
+Partido	44	-	União	Brasil
+Candidato
+44789	LUCIÉDSON	FREITAS
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	4
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	70	-	AVANTE
+Candidato
+70100	RUBENILTON
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Eleitores	Aptos
+0150
+Eleitores	aptos	originais
+0150
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0128
+Votos	de	legenda
+0002
+Votos	em	branco
+0001
+Votos	Nulos
+0002
+Total	Apurado
+0133
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+65
+13	PROFESSOR	CLEITON
+Votação
+60
+Eleitores	Aptos
+0150
+Eleitores	aptos	originais
+0150
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0125
+Votos	de	legenda
+0000
+Votos	em	branco
+0004
+Votos	Nulos
+0004
+Total	Apurado
+0133
+Código	de	identiﬁcacão	da	carga
+151.292.004.325.954.689.851.153
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

@@ -1,0 +1,260 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1015
+Seção	Eleitoral
+0159
+Eleitores	aptos
+0228
+Eleitores	aptos	originais
+0228
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0159
+Baixar	o	arquivo	BU
+0212
+Habilitação	biométrica
+0166
+Habilitação	biograﬁca
+0038
+Habilitação	sem	biometria
+0008
+Eleitores	faltosos
+0016
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02293367
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:10:44
+Resumo	da	correspondência
+677.781
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+3
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+1
+10555	PROFESSORA	ADRIANA
+Votação
+1
+10777	PAULO	DA	JUDITE
+Votação
+12
+Votos	de	legenda:	0
+Total	do	Partido:	17
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+14
+11111	PASTORA	HELENA	CORDEIRO
+Votação
+2
+11222	SEBASTIÃO	UCHÔA
+Votação
+7
+11444	EVILÁSIO	DANTAS
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	27
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+1
+12888	NETO	POLI
+Votação
+10
+Votos	de	legenda:	0
+Total	do	Partido:	11
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+1
+13222	FÁBIA	NAPOLEAO
+Votação
+3
+13444	TIAGO	ROCHA
+Votação
+2
+13789	PROFESSOR	ERIVAN
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	7
+Partido	18	-	Rede	Sustentabilidade
+Candidato
+18888	PROFESSOR	SILVESTRE
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	20	-	Podemos
+Candidato
+20444	DR	MARCIO	OLIVEIRA	ADVOGADO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	22	-	Partido	Liberal
+Candidato
+22111	VINÍCIUS	OLINDA
+Votação
+13
+22222	RAFAEL	AZEVEDO
+Votação
+3
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	17
+Partido	27	-	Democracia	Cristã
+Candidato
+27456	ENFERMEIRA	MARCIA
+Votação
+11
+Votos	de	legenda:	0
+Total	do	Partido:	11
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+13
+28777	CLENILDO	QUEIROZ
+Votação
+7
+Votos	de	legenda:	0
+Total	do	Partido:	20
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40123	BETO	RAMIRES
+Votação
+77
+40555	NOVO	CONSTRUÇÃO
+Votação
+2
+Votos	de	legenda:	1
+Total	do	Partido:	80
+Partido	44	-	União	Brasil
+Candidato
+44222	LALÁ
+Votação
+5
+44789	LUCIÉDSON	FREITAS
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	10
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45444	PALOMA	DELRIO
+Votação
+1
+45555	FRANCISCO	DO	BALBINO
+Votação
+3
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+1
+45888	ZE	DO	JORNAL
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	7
+Eleitores	Aptos
+0228
+Eleitores	aptos	originais
+0228
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0208
+Votos	de	legenda
+0001
+Votos	em	branco
+0000
+Votos	Nulos
+0003
+Total	Apurado
+0212
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+96
+13	PROFESSOR	CLEITON
+Votação
+111
+20	PAULINHA	DANTAS
+Votação
+1
+Eleitores	Aptos
+Eleitores	Aptos
+0228
+Eleitores	aptos	originais
+0228
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0208
+Votos	de	legenda
+0000
+Votos	em	branco
+0002
+Votos	Nulos
+0002
+Total	Apurado
+0212
+Código	de	identiﬁcacão	da	carga
+484.525.915.644.619.693.677.781
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

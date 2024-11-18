@@ -1,0 +1,227 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1031
+Seção	Eleitoral
+0147
+Eleitores	aptos
+0200
+Eleitores	aptos	originais
+0200
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0147
+Baixar	o	arquivo	BU
+0182
+Habilitação	biométrica
+0153
+Habilitação	biograﬁca
+0025
+Habilitação	sem	biometria
+0004
+Eleitores	faltosos
+0018
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02295250
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:01:07
+Resumo	da	correspondência
+564.093
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+4
+10789	FLÁVIO	CASCAVELENSE
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	6
+Partido	11	-	PROGRESSISTAS
+Candidato
+11111	PASTORA	HELENA	CORDEIRO
+Votação
+1
+11222	SEBASTIÃO	UCHÔA
+Votação
+36
+Votos	de	legenda:	2
+Total	do	Partido:	39
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12777	VITORIA	MARTINS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13789	PROFESSOR	ERIVAN
+Votação
+1
+Votos	de	legenda:	4
+Total	do	Partido:	5
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+2
+22111	VINÍCIUS	OLINDA
+Votação
+2
+22555	RAFAEL	OLIVEIRA
+Votação
+2
+22888	LEIDIANE	CIRÍACO
+Votação
+2
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	10
+Partido	27	-	Democracia	Cristã
+Candidato
+27999	JUNIOR	GENRO	JULIO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28028	MAILSON
+Votação
+2
+28123	PRISCILA	LIMA
+Votação
+18
+28666	FANTIQUIM
+Votação
+1
+28888	VALDECIR
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	22
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+4
+40123	BETO	RAMIRES
+Votação
+81
+40555	NOVO	CONSTRUÇÃO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	86
+Partido	44	-	União	Brasil
+Candidato
+44555	LURDENIS	VIEIRA
+Votação
+3
+44789	LUCIÉDSON	FREITAS
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	5
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45222	YURI	MOTA
+Votação
+1
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Eleitores	Aptos
+0200
+Eleitores	aptos	originais
+0200
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0170
+Votos	de	legenda
+0007
+Votos	em	branco
+0003
+Votos	Nulos
+0002
+Total	Apurado
+0182
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+86
+13	PROFESSOR	CLEITON
+Votação
+85
+Eleitores	Aptos
+0200
+Eleitores	aptos	originais
+0200
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0171
+Votos	de	legenda
+0000
+Votos	em	branco
+0001
+Votos	Nulos
+0010
+Total	Apurado
+0182
+Código	de	identiﬁcacão	da	carga
+423.919.568.738.316.073.564.093
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

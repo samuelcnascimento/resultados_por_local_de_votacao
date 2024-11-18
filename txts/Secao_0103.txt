@@ -1,0 +1,336 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1570
+Seção	Eleitoral
+0103
+Eleitores	aptos
+0288
+Eleitores	aptos	originais
+0287
+Eleitores	aptos	temporários
+0001
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0103
+Baixar	o	arquivo	BU
+0248
+Habilitação	biométrica
+0219
+Habilitação	biograﬁca
+0012
+Habilitação	sem	biometria
+0017
+Eleitores	faltosos
+0040
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02288449
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:00:51
+Resumo	da	correspondência
+645.249
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+3
+10123	PAULINHO	PROMOÇÕES
+Votação
+6
+10333	DAVID	GARCÊS
+Votação
+5
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+2
+10555	PROFESSORA	ADRIANA
+Votação
+1
+10777	PAULO	DA	JUDITE
+Votação
+16
+10789	FLÁVIO	CASCAVELENSE
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	34
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+11
+11111	PASTORA	HELENA	CORDEIRO
+Votação
+2
+11222	SEBASTIÃO	UCHÔA
+Votação
+6
+11444	EVILÁSIO	DANTAS
+Votação
+1
+Votos	de	legenda:	4
+Total	do	Partido:	24
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12888	NETO	POLI
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13000	MARIA	JÔ
+Votação
+4
+13123	PROFESSOR	ADEILDO
+Votação
+11
+13210	FÁTIMA	INACIO	EX	PROF.	CNEC
+Votação
+2
+13222	FÁBIA	NAPOLEAO
+Votação
+8
+13444	TIAGO	ROCHA
+Votação
+16
+13456	ENFERMEIRA	LEUDA	CARVALHO
+Votação
+1
+13789	PROFESSOR	ERIVAN
+Votação
+5
+Votos	de	legenda:	2
+Total	do	Partido:	49
+Partido	18	-	Rede	Sustentabilidade
+Candidato
+18400	UELITON	FARIAS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	20	-	Podemos
+Candidato
+20456	VERA	DANTAS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+12
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+7
+22111	VINÍCIUS	OLINDA
+Votação
+4
+22222	RAFAEL	AZEVEDO
+Votação
+9
+22300	GILBERTO	DA	MANGABEIRA
+Votação
+2
+22555	RAFAEL	OLIVEIRA
+Votação
+1
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	40
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+9
+27456	ENFERMEIRA	MARCIA
+Votação
+4
+27555	FAFA
+Votação
+2
+27888	MARCELO	DO	PAREDÃO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	17
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+6
+28456	HAVAGARDO	SILVA
+Votação
+1
+28777	CLENILDO	QUEIROZ
+Votação
+1
+28888	VALDECIR
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	13
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+7
+40123	BETO	RAMIRES
+Votação
+7
+40444	ADONIAS	DO	TURISMO
+Votação
+4
+40456	JORDANA	BRAGA
+Votação
+1
+40555	NOVO	CONSTRUÇÃO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	21
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+5
+44123	GAVIÃO	SILVA
+Votação
+1
+44222	LALÁ
+Votação
+1
+44444	KEKEU	DO	MUCURA
+Votação
+3
+44456	JEOVANE	DO	GÁS
+Votação
+2
+44567	NETO	DANTAS
+Votação
+3
+44789	LUCIÉDSON	FREITAS
+Votação
+13
+44900	SHEIK	DO	DR	BRUNO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	29
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45444	PALOMA	DELRIO
+Votação
+1
+45777	BRUMARK
+Votação
+1
+45888	ZE	DO	JORNAL
+Votação
+2
+Votos	de	legenda:	1
+Total	do	Partido:	5
+Partido	70	-	AVANTE
+Candidato
+70000	RONALDO	FEITOSA
+Votação
+1
+70888	DINIZ
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Eleitores	Aptos
+0288
+0288
+Eleitores	aptos	originais
+0287
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0231
+Votos	de	legenda
+0007
+Votos	em	branco
+0004
+Votos	Nulos
+0006
+Total	Apurado
+0248
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+124
+13	PROFESSOR	CLEITON
+Votação
+103
+20	PAULINHA	DANTAS
+Votação
+6
+Eleitores	Aptos
+0288
+Eleitores	aptos	originais
+0287
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0233
+Votos	de	legenda
+0000
+Votos	em	branco
+0006
+Votos	Nulos
+0009
+Total	Apurado
+0248
+Código	de	identiﬁcacão	da	carga
+656.242.071.068.343.575.645.249
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

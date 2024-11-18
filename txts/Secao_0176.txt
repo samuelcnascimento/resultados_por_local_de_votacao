@@ -1,0 +1,259 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1341
+Seção	Eleitoral
+0176
+Eleitores	aptos
+0284
+Eleitores	aptos	originais
+0284
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0176
+Baixar	o	arquivo	BU
+0260
+Habilitação	biométrica
+0244
+Habilitação	biograﬁca
+0016
+Habilitação	sem	biometria
+0000
+Eleitores	faltosos
+0024
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02292769
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:08:22
+Resumo	da	correspondência
+027.877
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+91
+10777	PAULO	DA	JUDITE
+Votação
+43
+10789	FLÁVIO	CASCAVELENSE
+Votação
+15
+Votos	de	legenda:	3
+Total	do	Partido:	152
+Partido	11	-	PROGRESSISTAS
+Candidato
+11222	SEBASTIÃO	UCHÔA
+Votação
+2
+11444	EVILÁSIO	DANTAS
+Votação
+2
+Votos	de	legenda:	2
+Total	do	Partido:	6
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12345	DR	GUTEMBERG
+Votação
+1
+12888	NETO	POLI
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	4
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+3
+13444	TIAGO	ROCHA
+Votação
+1
+Votos	de	legenda:	2
+Total	do	Partido:	6
+Partido	18	-	Rede	Sustentabilidade
+Candidato
+18777	FABIO	MARTINS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	22	-	Partido	Liberal
+Candidato
+22111	VINÍCIUS	OLINDA
+Votação
+12
+22222	RAFAEL	AZEVEDO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	13
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+3
+27123	MARCIO	RABELO
+Votação
+2
+27888	MARCELO	DO	PAREDÃO
+Votação
+9
+Votos	de	legenda:	1
+Total	do	Partido:	15
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+2
+28777	CLENILDO	QUEIROZ
+Votação
+2
+28888	VALDECIR
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	5
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+3
+40123	BETO	RAMIRES
+Votação
+2
+40555	NOVO	CONSTRUÇÃO
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	10
+Partido	44	-	União	Brasil
+Candidato
+44123	GAVIÃO	SILVA
+Votação
+3
+44222	LALÁ
+Votação
+1
+44555	LURDENIS	VIEIRA
+Votação
+1
+44567	NETO	DANTAS
+Votação
+4
+44789	LUCIÉDSON	FREITAS
+Votação
+16
+44900	SHEIK	DO	DR	BRUNO
+Votação
+10
+Votos	de	legenda:	1
+Total	do	Partido:	36
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45111	BAMBAM	DAS	PEGADINHAS
+Votação
+3
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	4
+Partido	70	-	AVANTE
+Candidato
+70000	RONALDO	FEITOSA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Eleitores	Aptos
+0284
+Eleitores	aptos	originais
+0284
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0244
+Votos	de	legenda
+0009
+Votos	em	branco
+0003
+Votos	Nulos
+0004
+Total	Apurado
+0260
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+101
+13	PROFESSOR	CLEITON
+Votação
+146
+20	PAULINHA	DANTAS
+Votação
+4
+Eleitores	Aptos
+0284
+Eleitores	aptos	originais
+0284
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0251
+Votos	de	legenda
+0000
+Votos	em	branco
+0003
+Votos	Nulos
+0006
+Total	Apurado
+0260
+Código	de	identiﬁcacão	da	carga
+777.454.012.273.252.537.027.877
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

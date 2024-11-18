@@ -1,0 +1,284 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1171
+Seção	Eleitoral
+0207
+Eleitores	aptos
+0307
+Eleitores	aptos	originais
+0307
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0207
+Baixar	o	arquivo	BU
+0272
+Habilitação	biométrica
+0241
+Habilitação	biograﬁca
+0020
+Habilitação	sem	biometria
+0011
+Eleitores	faltosos
+0035
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02259141
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:03:25
+Resumo	da	correspondência
+165.406
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10123	PAULINHO	PROMOÇÕES
+Votação
+5
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+1
+10777	PAULO	DA	JUDITE
+Votação
+7
+10789	FLÁVIO	CASCAVELENSE
+Votação
+13
+Votos	de	legenda:	0
+Total	do	Partido:	26
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+6
+11222	SEBASTIÃO	UCHÔA
+Votação
+48
+Votos	de	legenda:	0
+Total	do	Partido:	54
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+2
+12555	HELIO	ALEGRIA
+Votação
+1
+12777	VITORIA	MARTINS
+Votação
+1
+12888	NETO	POLI
+Votação
+6
+Votos	de	legenda:	1
+Total	do	Partido:	11
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+49
+13222	FÁBIA	NAPOLEAO
+Votação
+2
+13444	TIAGO	ROCHA
+Votação
+44
+13789	PROFESSOR	ERIVAN
+Votação
+2
+Votos	de	legenda:	1
+Total	do	Partido:	98
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+8
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+2
+22111	VINÍCIUS	OLINDA
+Votação
+2
+22222	RAFAEL	AZEVEDO
+Votação
+3
+22300	GILBERTO	DA	MANGABEIRA
+Votação
+2
+22888	LEIDIANE	CIRÍACO
+Votação
+1
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	21
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+4
+27456	ENFERMEIRA	MARCIA
+Votação
+1
+27999	JUNIOR	GENRO	JULIO
+Votação
+12
+Votos	de	legenda:	0
+Total	do	Partido:	17
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28007	JOSUÉ	CORREIA
+Votação
+1
+28123	PRISCILA	LIMA
+Votação
+14
+28666	FANTIQUIM
+Votação
+1
+28777	CLENILDO	QUEIROZ
+Votação
+1
+28888	VALDECIR
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	18
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+3
+40123	BETO	RAMIRES
+Votação
+1
+40444	ADONIAS	DO	TURISMO
+Votação
+4
+40456	JORDANA	BRAGA
+Votação
+1
+40555	NOVO	CONSTRUÇÃO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	10
+Partido	44	-	União	Brasil
+Candidato
+44444	KEKEU	DO	MUCURA
+Votação
+5
+44555	LURDENIS	VIEIRA
+Votação
+1
+44567	NETO	DANTAS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	7
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45121	MAZE
+Votação
+1
+45123	DUDU	DA	CAPONGA
+Votação
+1
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+5
+45888	ZE	DO	JORNAL
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	9
+Eleitores	Aptos
+0307
+Eleitores	aptos	originais
+0307
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0269
+Votos	de	legenda
+0002
+Votos	em	branco
+0000
+Votos	Nulos
+0001
+Total	Apurado
+0272
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+127
+13	PROFESSOR	CLEITON
+Votação
+137
+20	PAULINHA	DANTAS
+Votação
+1
+Eleitores	Aptos
+0307
+Eleitores	aptos	originais
+0307
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0265
+Votos	de	legenda
+0000
+Votos	em	branco
+0002
+Votos	Nulos
+0005
+Total	Apurado
+0272
+Código	de	identiﬁcacão	da	carga
+322.909.276.042.169.551.165.406
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

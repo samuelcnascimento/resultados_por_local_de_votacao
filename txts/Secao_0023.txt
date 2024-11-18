@@ -1,0 +1,340 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1139
+Seção	Eleitoral
+0023
+Eleitores	aptos
+0266
+Eleitores	aptos	originais
+0266
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0023
+Baixar	o	arquivo	BU
+0232
+Habilitação	biométrica
+0212
+Habilitação	biograﬁca
+0008
+Habilitação	sem	biometria
+0012
+Eleitores	faltosos
+0034
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02295200
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:04:00
+Resumo	da	correspondência
+445.957
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10
+Candidato
+10000
+Votação
+2
+10123
+Votação
+9
+10456
+Votação
+6
+10610
+Votação
+1
+10777
+Votação
+15
+10789
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	38
+Partido	11
+Candidato
+11000
+Votação
+10
+11111
+Votação
+2
+11222
+Votação
+5
+11777
+Votação
+1
+11789
+Votação
+1
+Votos	de	legenda:	2
+Total	do	Partido:	21
+Partido	12
+Candidato
+12123
+Votação
+5
+12555
+Votação
+3
+12888
+Votação
+6
+Votos	de	legenda:	0
+Total	do	Partido:	14
+Partido	13
+Candidato
+13123
+Votação
+5
+13222
+Votação
+1
+13444
+Votação
+14
+13789
+Votação
+4
+Votos	de	legenda:	2
+Total	do	Partido:	26
+Partido	18
+Candidato
+18133
+Votação
+1
+18666
+Votação
+1
+18999
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	3
+Partido	22
+Candidato
+22000
+Votação
+4
+22100
+Votação
+4
+22111
+Votação
+4
+22222
+Votação
+4
+22300
+Votação
+2
+22444
+Votação
+1
+22555
+Votação
+2
+22999
+Votação
+13
+Votos	de	legenda:	0
+Total	do	Partido:	34
+Partido	27
+Candidato
+27000
+Votação
+5
+27123
+Votação
+1
+27456
+Votação
+6
+27777
+Votação
+1
+27888
+Votação
+4
+27999
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	18
+Partido	28
+Candidato
+28007
+Votação
+3
+28123
+Votação
+11
+28124
+Votação
+1
+28333
+Votação
+1
+28888
+Votação
+6
+Votos	de	legenda:	0
+Total	do	Partido:	22
+Partido	40
+Candidato
+40000
+Votação
+5
+40123
+Votação
+3
+40444
+Votação
+1
+40555
+Votação
+8
+Votos	de	legenda:	0
+Total	do	Partido:	17
+Partido	44
+Candidato
+44000
+Votação
+8
+44111
+Votação
+2
+44123
+Votação
+1
+44444
+Votação
+3
+44456
+Votação
+1
+44555
+Votação
+2
+44567
+Votação
+4
+44900
+Votação
+2
+Votos	de	legenda:	2
+Total	do	Partido:	25
+Partido	45
+Candidato
+45222
+Votação
+2
+45555
+Votação
+1
+45777
+Votação
+1
+45888
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	6
+Partido	70
+Candidato
+70555
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Eleitores	Aptos
+0266
+Eleitores	aptos	originais
+0266
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0220
+Votos	de	legenda
+0006
+Votos	em	branco
+0005
+Votos	Nulos
+0001
+Total	Apurado
+0232
+Prefeito.
+Candidato
+11
+Votação
+139
+13
+Votação
+79
+20
+Votação
+3
+Eleitores	Aptos
+0266
+Eleitores	aptos	originais
+0266
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0221
+Votos	de	legenda
+0000
+Votos	em	branco
+0005
+Votos	Nulos
+0006
+Total	Apurado
+0232
+Código	de	identiﬁcacão	da	carga
+807.757.277.025.102.120.445.957
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

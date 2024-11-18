@@ -1,0 +1,362 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+2038
+Seção	Eleitoral
+0240
+Eleitores	aptos
+0330
+Eleitores	aptos	originais
+0329
+Eleitores	aptos	temporários
+0001
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0240
+Baixar	o	arquivo	BU
+0284
+Habilitação	biométrica
+0269
+Habilitação	biograﬁca
+0015
+Habilitação	sem	biometria
+0000
+Eleitores	faltosos
+0046
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02294628
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:00:55
+Resumo	da	correspondência
+165.210
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+2
+10123	PAULINHO	PROMOÇÕES
+Votação
+20
+10333	DAVID	GARCÊS
+Votação
+1
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+12
+10777	PAULO	DA	JUDITE
+Votação
+5
+10789	FLÁVIO	CASCAVELENSE
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	42
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+6
+11222	SEBASTIÃO	UCHÔA
+Votação
+12
+11789	EDUARDO	CRUZ
+Votação
+7
+11999	JAIRO	TAXISTA
+Votação
+1
+Votos	de	legenda:	2
+Total	do	Partido:	28
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12111	CRISTIANE	GOMES
+Votação
+2
+12123	NENEM	DA	VIUVA
+Votação
+4
+12666	MARIA	ELENICE
+Votação
+1
+12888	NETO	POLI
+Votação
+10
+Votos	de	legenda:	0
+Total	do	Partido:	17
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13000	MARIA	JÔ
+Votação
+1
+13123	PROFESSOR	ADEILDO
+Votação
+7
+13222	FÁBIA	NAPOLEAO
+Votação
+4
+13444	TIAGO	ROCHA
+Votação
+7
+13789	PROFESSOR	ERIVAN
+Votação
+4
+Votos	de	legenda:	1
+Total	do	Partido:	24
+Partido	18	-	Rede	Sustentabilidade
+Candidato
+18777	FABIO	MARTINS
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+1
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+5
+22111	VINÍCIUS	OLINDA
+Votação
+6
+22222	RAFAEL	AZEVEDO
+Votação
+5
+22300	GILBERTO	DA	MANGABEIRA
+Votação
+2
+22333	TAZIA	XAVIER
+Votação
+1
+22555	RAFAEL	OLIVEIRA
+Votação
+1
+22777	GUI	DA	PADARIA
+Votação
+1
+22888	LEIDIANE	CIRÍACO
+Votação
+2
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+6
+Votos	de	legenda:	0
+Total	do	Partido:	30
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+1
+27123	MARCIO	RABELO
+Votação
+1
+27456	ENFERMEIRA	MARCIA
+Votação
+3
+27777	SERGINHO	PARATLETA
+Votação
+1
+27888	MARCELO	DO	PAREDÃO
+Votação
+8
+27999	JUNIOR	GENRO	JULIO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	15
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28000	VLADIA	DE	OLIVEIRA
+Votação
+3
+28007	JOSUÉ	CORREIA
+Votação
+17
+28111	JORGE	RODRIGUES
+Votação
+1
+28123	PRISCILA	LIMA
+Votação
+5
+28555	DR	RUBENS
+Votação
+2
+28666	FANTIQUIM
+Votação
+4
+28777	CLENILDO	QUEIROZ
+Votação
+1
+28888	VALDECIR
+Votação
+11
+Votos	de	legenda:	0
+Total	do	Partido:	44
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+3
+40111	ALLISON	CAMILO
+Votação
+2
+40123	BETO	RAMIRES
+Votação
+1
+40444	ADONIAS	DO	TURISMO
+Votação
+3
+40456	JORDANA	BRAGA
+Votação
+2
+40555	NOVO	CONSTRUÇÃO
+Votação
+4
+40789	GIRLANE	DO	CEDRO
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	20
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+3
+44444	KEKEU	DO	MUCURA
+Votação
+8
+44555	LURDENIS	VIEIRA
+Votação
+6
+44567	NETO	DANTAS
+Votação
+6
+44789	LUCIÉDSON	FREITAS
+Votação
+7
+Votos	de	legenda:	1
+Total	do	Partido:	31
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45111	BAMBAM	DAS	PEGADINHAS
+Votação
+1
+45112	LUCIANA
+Votação
+1
+45123	DUDU	DA	CAPONGA
+Votação
+1
+45222	YURI	MOTA
+Votação
+3
+45555	FRANCISCO	DO	BALBINO
+Votação
+6
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+1
+45777	BRUMARK
+Votação
+8
+Votos	de	legenda:	1
+Total	do	Partido:	22
+Partido	70	-	AVANTE
+Candidato
+70123	LU	
+MAIA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Eleitores	Aptos
+0330
+Eleitores	aptos	originais
+0329
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0270
+Votos	de	legenda
+0005
+Votos	em	branco
+0004
+Votos	Nulos
+0005
+Total	Apurado
+0284
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+155
+13	PROFESSOR	CLEITON
+Votação
+104
+20	PAULINHA	DANTAS
+Votação
+5
+Eleitores	Aptos
+0330
+Eleitores	aptos	originais
+0329
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0264
+Votos	de	legenda
+0000
+Votos	em	branco
+0013
+Votos	Nulos
+0007
+Total	Apurado
+0284
+Código	de	identiﬁcacão	da	carga
+737.050.197.663.586.035.165.210
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

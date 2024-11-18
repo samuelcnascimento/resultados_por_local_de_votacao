@@ -1,0 +1,325 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1295
+Seção	Eleitoral
+0218
+Eleitores	aptos
+0304
+Eleitores	aptos	originais
+0304
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0218
+Baixar	o	arquivo	BU
+0266
+Habilitação	biométrica
+0245
+Habilitação	biograﬁca
+0016
+Habilitação	sem	biometria
+0005
+Eleitores	faltosos
+0038
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02303446
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:02:46
+Resumo	da	correspondência
+250.477
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+16
+10123	PAULINHO	PROMOÇÕES
+Votação
+15
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+8
+10777	PAULO	DA	JUDITE
+Votação
+7
+10789	FLÁVIO	CASCAVELENSE
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	48
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+15
+11222	SEBASTIÃO	UCHÔA
+Votação
+1
+11666	LIBERATO	FILHO
+Votação
+1
+11777	DIONES	LIMA
+Votação
+2
+11789	EDUARDO	CRUZ
+Votação
+10
+Votos	de	legenda:	0
+Total	do	Partido:	29
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+3
+12777	VITORIA	MARTINS
+Votação
+3
+12888	NETO	POLI
+Votação
+25
+Votos	de	legenda:	0
+Total	do	Partido:	31
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+5
+13444	TIAGO	ROCHA
+Votação
+18
+13789	PROFESSOR	ERIVAN
+Votação
+2
+Votos	de	legenda:	2
+Total	do	Partido:	27
+Partido	20	-	Podemos
+Candidato
+20333	CELIA	DAS	MARIAS
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+1
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+3
+22111	VINÍCIUS	OLINDA
+Votação
+6
+22222	RAFAEL	AZEVEDO
+Votação
+1
+22300	GILBERTO	DA	MANGABEIRA
+Votação
+3
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+8
+Votos	de	legenda:	1
+Total	do	Partido:	23
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+1
+27123	MARCIO	RABELO
+Votação
+12
+27456	ENFERMEIRA	MARCIA
+Votação
+2
+27555	FAFA
+Votação
+1
+27888	MARCELO	DO	PAREDÃO
+Votação
+2
+27999	JUNIOR	GENRO	JULIO
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	20
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28007	JOSUÉ	CORREIA
+Votação
+2
+28028	MAILSON
+Votação
+2
+28123	PRISCILA	LIMA
+Votação
+7
+28666	FANTIQUIM
+Votação
+1
+28777	CLENILDO	QUEIROZ
+Votação
+3
+28888	VALDECIR
+Votação
+7
+Votos	de	legenda:	0
+Total	do	Partido:	22
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+5
+40123	BETO	RAMIRES
+Votação
+4
+40444	ADONIAS	DO	TURISMO
+Votação
+7
+40555	NOVO	CONSTRUÇÃO
+Votação
+14
+40789	GIRLANE	DO	CEDRO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	31
+Partido	44	-	União	Brasil
+Candidato
+44444	KEKEU	DO	MUCURA
+Votação
+1
+44555	LURDENIS	VIEIRA
+Votação
+2
+44567	NETO	DANTAS
+Votação
+1
+44789	LUCIÉDSON	FREITAS
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	8
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45112	LUCIANA
+Votação
+1
+45121	MAZE
+Votação
+2
+45123	DUDU	DA	CAPONGA
+Votação
+1
+45555	FRANCISCO	DO	BALBINO
+Votação
+3
+45777	BRUMARK
+Votação
+6
+Votos	de	legenda:	1
+Total	do	Partido:	14
+Partido	70	-	AVANTE
+Candidato
+70000	RONALDO	FEITOSA
+Votação
+1
+70100	RUBENILTON
+Votação
+1
+70133	LEILDA	LELÊ
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	3
+Eleitores	Aptos
+0304
+Eleitores	aptos	originais
+0304
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0253
+Votos	de	legenda
+0005
+Votos	em	branco
+0007
+Votos	Nulos
+0001
+Total	Apurado
+0266
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+99
+13	PROFESSOR	CLEITON
+Votação
+153
+20	PAULINHA	DANTAS
+Votação
+3
+Eleitores	Aptos
+0304
+Eleitores	aptos	originais
+0304
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0255
+Votos	de	legenda
+0000
+Votos	em	branco
+0004
+Votos	Nulos
+0007
+Total	Apurado
+0266
+Código	de	identiﬁcacão	da	carga
+302.707.432.220.479.641.250.477
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

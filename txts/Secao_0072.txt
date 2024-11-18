@@ -1,0 +1,347 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1937
+Seção	Eleitoral
+0072
+Eleitores	aptos
+0319
+Eleitores	aptos	originais
+0318
+Eleitores	aptos	temporários
+0001
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0072
+Baixar	o	arquivo	BU
+0271
+Habilitação	biométrica
+0230
+Habilitação	biograﬁca
+0011
+Habilitação	sem	biometria
+0030
+Eleitores	faltosos
+0048
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02260689
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:01:00
+Resumo	da	correspondência
+751.059
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10123	PAULINHO	PROMOÇÕES
+Votação
+9
+10333	DAVID	GARCÊS
+Votação
+8
+10555	PROFESSORA	ADRIANA
+Votação
+2
+10777	PAULO	DA	JUDITE
+Votação
+7
+10789	FLÁVIO	CASCAVELENSE
+Votação
+4
+Votos	de	legenda:	1
+Total	do	Partido:	31
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+17
+11111	PASTORA	HELENA	CORDEIRO
+Votação
+5
+11222	SEBASTIÃO	UCHÔA
+Votação
+4
+11444	EVILÁSIO	DANTAS
+Votação
+1
+11666	LIBERATO	FILHO
+Votação
+1
+11789	EDUARDO	CRUZ
+Votação
+2
+11888	SÉRGIO	DO	TANGA
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	32
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+3
+12555	HELIO	ALEGRIA
+Votação
+1
+12666	MARIA	ELENICE
+Votação
+2
+12777	VITORIA	MARTINS
+Votação
+3
+12888	NETO	POLI
+Votação
+15
+Votos	de	legenda:	0
+Total	do	Partido:	24
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13000	MARIA	JÔ
+Votação
+1
+13123	PROFESSOR	ADEILDO
+Votação
+12
+13222	FÁBIA	NAPOLEAO
+Votação
+7
+13444	TIAGO	ROCHA
+Votação
+12
+13789	PROFESSOR	ERIVAN
+Votação
+6
+Votos	de	legenda:	4
+Total	do	Partido:	42
+Partido	18	-	Rede	Sustentabilidade
+Candidato
+18400	UELITON	FARIAS
+Votação
+1
+18444	ELIANE
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+2
+22100	NÚBIA	DO	ABRIGO	MASCOTINHO
+Votação
+11
+22111	VINÍCIUS	OLINDA
+Votação
+6
+22222	RAFAEL	AZEVEDO
+Votação
+7
+22333	TAZIA	XAVIER
+Votação
+1
+22555	RAFAEL	OLIVEIRA
+Votação
+1
+22678	PASTORA	PATRÍCIA
+Votação
+1
+22888	LEIDIANE	CIRÍACO
+Votação
+2
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+4
+Votos	de	legenda:	1
+Total	do	Partido:	36
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+3
+27111	DIEGO	MARADONA
+Votação
+1
+27123	MARCIO	RABELO
+Votação
+6
+27456	ENFERMEIRA	MARCIA
+Votação
+3
+27888	MARCELO	DO	PAREDÃO
+Votação
+4
+27999	JUNIOR	GENRO	JULIO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	18
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28007	JOSUÉ	CORREIA
+Votação
+1
+28123	PRISCILA	LIMA
+Votação
+12
+28456	HAVAGARDO	SILVA
+Votação
+1
+28888	VALDECIR
+Votação
+8
+Votos	de	legenda:	0
+Total	do	Partido:	22
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+10
+40111	ALLISON	CAMILO
+Votação
+2
+40123	BETO	RAMIRES
+Votação
+3
+40222	NETA	FREITAS
+Votação
+1
+40444	ADONIAS	DO	TURISMO
+Votação
+7
+40555	NOVO	CONSTRUÇÃO
+Votação
+4
+Votos	de	legenda:	0
+Total	do	Partido:	27
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+1
+44444	KEKEU	DO	MUCURA
+Votação
+6
+44456	JEOVANE	DO	GÁS
+Votação
+1
+44555	LURDENIS	VIEIRA
+Votação
+3
+44789	LUCIÉDSON	FREITAS
+Votação
+7
+Votos	de	legenda:	0
+Total	do	Partido:	18
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45555	FRANCISCO	DO	BALBINO
+Votação
+2
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+1
+45777	BRUMARK
+Votação
+2
+45789	PATRICIA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	6
+Partido	70	-	AVANTE
+Candidato
+70555	HELENA	PORFÍRIO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	2
+Eleitores	Aptos
+0319
+Eleitores	aptos	originais
+0318
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0253
+Votos	de	legenda
+0007
+Votos	em	branco
+0004
+Votos	Nulos
+0007
+Total	Apurado
+0271
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+125
+13	PROFESSOR	CLEITON
+Votação
+128
+20	PAULINHA	DANTAS
+Votação
+4
+Eleitores	Aptos
+0319
+Eleitores	aptos	originais
+0318
+Eleitores	aptos	temporários
+0001
+0001
+Votos	nominais
+0257
+Votos	de	legenda
+0000
+Votos	em	branco
+0006
+Votos	Nulos
+0008
+Total	Apurado
+0271
+Código	de	identiﬁcacão	da	carga
+009.777.710.990.544.770.751.059
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

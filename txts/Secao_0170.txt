@@ -1,0 +1,255 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1848
+Seção	Eleitoral
+0170
+Eleitores	aptos
+0160
+Eleitores	aptos	originais
+0159
+Eleitores	aptos	temporários
+0001
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0170
+Baixar	o	arquivo	BU
+0146
+Habilitação	biométrica
+0132
+Habilitação	biograﬁca
+0001
+Habilitação	sem	biometria
+0013
+Eleitores	faltosos
+0014
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02252110
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:00:40
+Resumo	da	correspondência
+950.251
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10123	PAULINHO	PROMOÇÕES
+Votação
+4
+10333	DAVID	GARCÊS
+Votação
+3
+10777	PAULO	DA	JUDITE
+Votação
+1
+10789	FLÁVIO	CASCAVELENSE
+Votação
+14
+Votos	de	legenda:	1
+Total	do	Partido:	23
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+5
+11123	DALVA	DO	MANGUINHOS
+Votação
+3
+11789	EDUARDO	CRUZ
+Votação
+1
+Votos	de	legenda:	2
+Total	do	Partido:	11
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+3
+12777	VITORIA	MARTINS
+Votação
+1
+12888	NETO	POLI
+Votação
+13
+Votos	de	legenda:	1
+Total	do	Partido:	18
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13000	MARIA	JÔ
+Votação
+1
+13123	PROFESSOR	ADEILDO
+Votação
+3
+13444	TIAGO	ROCHA
+Votação
+2
+13789	PROFESSOR	ERIVAN
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	8
+Partido	22	-	Partido	Liberal
+Candidato
+22111	VINÍCIUS	OLINDA
+Votação
+29
+22222	RAFAEL	AZEVEDO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	31
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+4
+27123	MARCIO	RABELO
+Votação
+1
+27456	ENFERMEIRA	MARCIA
+Votação
+9
+27999	JUNIOR	GENRO	JULIO
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	15
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28007	JOSUÉ	CORREIA
+Votação
+3
+28123	PRISCILA	LIMA
+Votação
+6
+28666	FANTIQUIM
+Votação
+3
+28888	VALDECIR
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	15
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+6
+40444	ADONIAS	DO	TURISMO
+Votação
+1
+40555	NOVO	CONSTRUÇÃO
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	10
+Partido	44	-	União	Brasil
+Candidato
+44789	LUCIÉDSON	FREITAS
+Votação
+3
+Votos	de	legenda:	1
+Total	do	Partido:	4
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45000	MAJU
+Votação
+1
+45555	FRANCISCO	DO	BALBINO
+Votação
+3
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	6
+Eleitores	Aptos
+0160
+Eleitores	aptos	originais
+0159
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0136
+Votos	de	legenda
+0005
+Votos	em	branco
+0004
+Votos	Nulos
+0001
+Total	Apurado
+0146
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+73
+13	PROFESSOR	CLEITON
+Votação
+66
+20	PAULINHA	DANTAS
+Votação
+3
+Eleitores	Aptos
+0160
+Eleitores	aptos	originais
+0159
+Eleitores	aptos	temporários
+0001
+Votos	nominais
+0142
+Votos	de	legenda
+0000
+Votos	em	branco
+0001
+0001
+Votos	Nulos
+0003
+Total	Apurado
+0146
+Código	de	identiﬁcacão	da	carga
+252.202.834.815.157.748.950.251
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

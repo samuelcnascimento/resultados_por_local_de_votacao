@@ -1,0 +1,298 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1821
+Seção	Eleitoral
+0167
+Eleitores	aptos
+0306
+Eleitores	aptos	originais
+0306
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0167
+Baixar	o	arquivo	BU
+0270
+Habilitação	biométrica
+0237
+Habilitação	biograﬁca
+0024
+Habilitação	sem	biometria
+0009
+Eleitores	faltosos
+0036
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02295218
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:01:42
+Resumo	da	correspondência
+776.275
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+2
+10123	PAULINHO	PROMOÇÕES
+Votação
+7
+10333	DAVID	GARCÊS
+Votação
+2
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+9
+10777	PAULO	DA	JUDITE
+Votação
+17
+10789	FLÁVIO	CASCAVELENSE
+Votação
+2
+10888	PROFESSORA	LINDETE
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	41
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+55
+11222	SEBASTIÃO	UCHÔA
+Votação
+11
+Votos	de	legenda:	4
+Total	do	Partido:	70
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+3
+12345	DR	GUTEMBERG
+Votação
+1
+12888	NETO	POLI
+Votação
+1
+Votos	de	legenda:	1
+Total	do	Partido:	6
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+11
+13444	TIAGO	ROCHA
+Votação
+13
+13789	PROFESSOR	ERIVAN
+Votação
+9
+Votos	de	legenda:	1
+Total	do	Partido:	34
+Partido	22	-	Partido	Liberal
+Candidato
+22111	VINÍCIUS	OLINDA
+Votação
+2
+22222	RAFAEL	AZEVEDO
+Votação
+2
+22555	RAFAEL	OLIVEIRA
+Votação
+3
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	8
+Partido	27	-	Democracia	Cristã
+Candidato
+27456	ENFERMEIRA	MARCIA
+Votação
+5
+27888	MARCELO	DO	PAREDÃO
+Votação
+1
+Votos	de	legenda:	2
+Total	do	Partido:	8
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28007	JOSUÉ	CORREIA
+Votação
+1
+28028	MAILSON
+Votação
+11
+28123	PRISCILA	LIMA
+Votação
+3
+28124	MARLY	DO	BENJAMIN
+Votação
+3
+28777	CLENILDO	QUEIROZ
+Votação
+2
+28888	VALDECIR
+Votação
+10
+Votos	de	legenda:	0
+Total	do	Partido:	30
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+4
+40111	ALLISON	CAMILO
+Votação
+1
+40123	BETO	RAMIRES
+Votação
+17
+40444	ADONIAS	DO	TURISMO
+Votação
+1
+40555	NOVO	CONSTRUÇÃO
+Votação
+5
+Votos	de	legenda:	0
+Total	do	Partido:	28
+Partido	44	-	União	Brasil
+Candidato
+44000	OLIVEIRA	SILVA
+Votação
+1
+44111	DODÓ
+Votação
+4
+44123	GAVIÃO	SILVA
+Votação
+1
+44444	KEKEU	DO	MUCURA
+Votação
+1
+44456	JEOVANE	DO	GÁS
+Votação
+1
+44555	LURDENIS	VIEIRA
+Votação
+3
+44789	LUCIÉDSON	FREITAS
+Votação
+13
+44900	SHEIK	DO	DR	BRUNO
+Votação
+2
+Votos	de	legenda:	0
+Total	do	Partido:	26
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+11
+Votos	de	legenda:	0
+Total	do	Partido:	11
+Partido	70	-	AVANTE
+Candidato
+70000	RONALDO	FEITOSA
+Votação
+1
+70100	RUBENILTON
+Votação
+2
+70555	HELENA	PORFÍRIO
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	6
+Eleitores	Aptos
+0306
+Eleitores	aptos	originais
+0306
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0259
+Votos	de	legenda
+0009
+Votos	em	branco
+0001
+Votos	Nulos
+0001
+Total	Apurado
+0270
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+167
+13	PROFESSOR	CLEITON
+Votação
+91
+20	PAULINHA	DANTAS
+Votação
+6
+Eleitores	Aptos
+0306
+Eleitores	aptos	originais
+0306
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0264
+Votos	de	legenda
+0000
+Votos	em	branco
+0001
+0001
+Votos	Nulos
+0005
+Total	Apurado
+0270
+Código	de	identiﬁcacão	da	carga
+989.575.267.194.152.375.776.275
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

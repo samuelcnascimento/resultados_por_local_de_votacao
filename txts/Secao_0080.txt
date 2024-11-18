@@ -1,0 +1,244 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1457
+Seção	Eleitoral
+0080
+Eleitores	aptos
+0146
+Eleitores	aptos	originais
+0146
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0080
+Baixar	o	arquivo	BU
+0126
+Habilitação	biométrica
+0112
+Habilitação	biograﬁca
+0013
+Habilitação	sem	biometria
+0001
+Eleitores	faltosos
+0020
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02294995
+Data/hora	da	abertura	UE
+06/10/2024	08:00:01
+Data/hora	do	Fechamento	UE
+06/10/2024	17:02:26
+Resumo	da	correspondência
+223.266
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10123	PAULINHO	PROMOÇÕES
+Votação
+1
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+5
+10777	PAULO	DA	JUDITE
+Votação
+7
+10789	FLÁVIO	CASCAVELENSE
+Votação
+7
+Votos	de	legenda:	2
+Total	do	Partido:	22
+Partido	11	-	PROGRESSISTAS
+Candidato
+11000	FREITAS	DA	SAÚDE
+Votação
+6
+Votos	de	legenda:	3
+Total	do	Partido:	9
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12123	NENEM	DA	VIUVA
+Votação
+5
+12888	NETO	POLI
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	6
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13444	TIAGO	ROCHA
+Votação
+2
+13789	PROFESSOR	ERIVAN
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	3
+Partido	22	-	Partido	Liberal
+Candidato
+22000	CLAUDEMIR	TOCA	FOGO
+Votação
+1
+22111	VINÍCIUS	OLINDA
+Votação
+6
+Votos	de	legenda:	1
+Total	do	Partido:	8
+Partido	27	-	Democracia	Cristã
+Candidato
+27000	LAURO	CARDOSO
+Votação
+3
+27456	ENFERMEIRA	MARCIA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	4
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28123	PRISCILA	LIMA
+Votação
+12
+28777	CLENILDO	QUEIROZ
+Votação
+2
+28888	VALDECIR
+Votação
+26
+Votos	de	legenda:	0
+Total	do	Partido:	40
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40000	VIEIRA	DO	TIQUINHO
+Votação
+6
+40123	BETO	RAMIRES
+Votação
+3
+40555	NOVO	CONSTRUÇÃO
+Votação
+10
+Votos	de	legenda:	0
+Total	do	Partido:	19
+Partido	44	-	União	Brasil
+Candidato
+44111	DODÓ
+Votação
+2
+44123	GAVIÃO	SILVA
+Votação
+2
+44555	LURDENIS	VIEIRA
+Votação
+2
+44567	NETO	DANTAS
+Votação
+3
+Votos	de	legenda:	0
+Total	do	Partido:	9
+Partido	45	-	Partido	da	Social	Democracia	Brasileira
+Candidato
+45444	PALOMA	DELRIO
+Votação
+1
+45678	JUNIOR	DO	ZE	AIRTON
+Votação
+1
+45888	ZE	DO	JORNAL
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	3
+Partido	70	-	AVANTE
+Candidato
+70000	RONALDO	FEITOSA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	1
+Eleitores	Aptos
+0146
+Eleitores	aptos	originais
+0146
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0118
+Votos	de	legenda
+0006
+Votos	em	branco
+0000
+Votos	Nulos
+0002
+Total	Apurado
+0126
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+92
+13	PROFESSOR	CLEITON
+Votação
+27
+Eleitores	Aptos
+0146
+Eleitores	aptos	originais
+0146
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0119
+Votos	de	legenda
+0000
+Votos	em	branco
+0000
+Votos	Nulos
+0007
+Total	Apurado
+0126
+Código	de	identiﬁcacão	da	carga
+Código	de	identiﬁcacão	da	carga
+383.515.941.211.109.336.223.266
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+

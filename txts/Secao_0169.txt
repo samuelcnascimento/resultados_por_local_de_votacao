@@ -1,0 +1,201 @@
+Acessibilidade
+|
+Fale	conosco
+|
+Transparência
+|
+Eleição	
+Municipal	Ordinária	2024
+Cascavel,	CE
+1º	Turno
+Pesquisar
+Situação	da	Seção:
+Totalizada
+Última	atualização:
+06/10/2024	21:41:50
+Situação	do	Arquivo:
+Totalizado
+Boletim	de	Urna
+RDV
+Log	da	Urna
+Todos	Arquivos
+Boletim	de	Urna
+Identiﬁcação
+Município
+13692
+Zona	Eleitoral
+0007
+Local	de	votação
+1775
+Seção	Eleitoral
+0169
+Eleitores	aptos
+0154
+Eleitores	aptos	originais
+0154
+Eleitores	aptos	temporários
+0000
+Comparecimento
+Início
+Totalização
+Favoritos
+Dados	de	Urna
+Zona	0007
+Seção	0169
+Baixar	o	arquivo	BU
+0142
+Habilitação	biométrica
+0127
+Habilitação	biograﬁca
+0010
+Habilitação	sem	biometria
+0005
+Eleitores	faltosos
+0012
+Urna	Eletrônica	-	Correspondência	Efetivada
+Tipo	de	Arquivo
+Urna	eletrônica
+Código	de	identiﬁcação	UE
+02292700
+Data/hora	da	abertura	UE
+06/10/2024	08:03:11
+Data/hora	do	Fechamento	UE
+06/10/2024	17:00:31
+Resumo	da	correspondência
+330.962
+Eleição	Ordinária	Municipal	-	2024	-	06/10/2024	1º	Turno
+Vereador.
+Partido	10	-	REPUBLICANOS
+Candidato
+10000	LUZIANE	DO	MUCURA
+Votação
+2
+10123	PAULINHO	PROMOÇÕES
+Votação
+1
+10456	GLEIDSON	DA	BOA	AGUA
+Votação
+2
+10777	PAULO	DA	JUDITE
+Votação
+5
+10789	FLÁVIO	CASCAVELENSE
+Votação
+17
+Votos	de	legenda:	2
+Total	do	Partido:	29
+Partido	11	-	PROGRESSISTAS
+Candidato
+11222	SEBASTIÃO	UCHÔA
+Votação
+7
+Votos	de	legenda:	3
+Total	do	Partido:	10
+Partido	12	-	Partido	Democrático	Trabalhista
+Candidato
+12888	NETO	POLI
+Votação
+9
+Votos	de	legenda:	0
+Total	do	Partido:	9
+Partido	13	-	Partido	dos	Trabalhadores
+Candidato
+13123	PROFESSOR	ADEILDO
+Votação
+5
+13444	TIAGO	ROCHA
+Votação
+41
+13789	PROFESSOR	ERIVAN
+Votação
+6
+Votos	de	legenda:	4
+Total	do	Partido:	56
+Partido	22	-	Partido	Liberal
+Candidato
+22111	VINÍCIUS	OLINDA
+Votação
+12
+22999	PITANGA	DA	FUNERÁRIA
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	13
+Partido	28	-	Partido	Renovador	Trabalhista	Brasileiro
+Candidato
+28777	CLENILDO	QUEIROZ
+Votação
+3
+28888	VALDECIR
+Votação
+1
+Votos	de	legenda:	0
+Total	do	Partido:	4
+Partido	40	-	Partido	Socialista	Brasileiro
+Candidato
+40123	BETO	RAMIRES
+Votação
+2
+40888	ENFERMEIRA	NATECIA
+Votação
+7
+Votos	de	legenda:	2
+Total	do	Partido:	11
+Partido	44	-	União	Brasil
+Candidato
+44789	LUCIÉDSON	FREITAS
+Votação
+7
+Votos	de	legenda:	0
+Total	do	Partido:	7
+Eleitores	Aptos
+0154
+Eleitores	aptos	originais
+0154
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0128
+Votos	de	legenda
+0011
+Votos	em	branco
+0002
+Votos	Nulos
+0001
+Total	Apurado
+0142
+Prefeito.
+Candidato
+11	ANA	AFIF	QUEIROZ
+Votação
+52
+13	PROFESSOR	CLEITON
+Votação
+82
+Eleitores	Aptos
+0154
+Eleitores	aptos	originais
+0154
+Eleitores	aptos	temporários
+0000
+Votos	nominais
+0134
+Votos	de	legenda
+0000
+Votos	em	branco
+0001
+Votos	Nulos
+0007
+Total	Apurado
+0142
+Código	de	identiﬁcacão	da	carga
+575.434.075.567.778.688.330.962
+Início
+Favoritos
+Dados	de	Urna
+Termos	de	uso
+Versão	24.10.4	(adf27d52)
+Divulga
+Telão
+Baixe	nosso	app
+
