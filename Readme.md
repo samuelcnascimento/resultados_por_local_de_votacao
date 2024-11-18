@@ -1,3 +1,7 @@
+Claro! Aqui está o texto formatado para o seu README.md no GitHub, incluindo as imagens que você enviou:
+
+---
+
 # Análise de Resultados de Eleições
 
 Este repositório contém uma ferramenta para análise de resultados de eleições municipais no Brasil. O projeto processa dados de votação de diferentes seções eleitorais e cruza essas informações com os locais de votação para gerar relatórios claros e organizados.
@@ -98,6 +102,18 @@ Total Geral,3,10,15
 
 ---
 
+## 📣 Notas Importantes
+
+Esta planilha foi elaborada de forma voluntária, sem qualquer apoio financeiro, com o único objetivo de informar a quantidade de votos nominais recebidos por cada candidato ao cargo de vereador no município de Cascavel (Zona 007).
+
+Os nomes dos distritos e bairros foram obtidos a partir do site do TSE: [TSE - Zonais Eleitorais](https://www.tre-ce.jus.br/institucional/zonas-eleitorais/zonas-eleitorais-1)
+
+A lista completa dos 149 candidatos a vereador pode ser encontrada aqui: [Lista de Candidatos](https://divulgacandcontas.tse.jus.br/divulga/#/candidato/NORDESTE/CE/2045202024)
+
+Caso queira saber mais sobre as fontes utilizadas e como os dados foram cruzados, entre em contato comigo pelo Instagram: @_samuelnasc
+
+---
+
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções ou novas funcionalidades, abra uma *issue* ou envie um *pull request*. 
@@ -107,3 +123,12 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 ## 📝 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+## 📸 Informações Adicionais
+
+O projeto ganhou ampla visibilidade na cidade, sendo destaque em perfis influentes do Instagram no município, reconhecido por sua contribuição para a transparência e organização dos dados eleitorais.
+
+[Publicação no perfil cascavel Ordinário - O perfil tem mais de 147 mil seguidores](https://www.instagram.com/p/DA3xCH-PV1P/?img_index=1)
+---
